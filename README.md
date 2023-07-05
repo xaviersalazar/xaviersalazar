@@ -1,4 +1,4 @@
-👋 Hi, I’m @xaviersalazar and currently Senior Software Engineer @Method. I enjoy all things coding, playing some video games (mostly Destiny) and constantly learning new things
+👋 Hi, I’m @xaviersalazar
 
 <!---
 xaviersalazar/xaviersalazar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
